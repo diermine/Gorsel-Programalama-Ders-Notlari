@@ -1,0 +1,15 @@
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\obj\Debug\net6.0\Hafta 4.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\obj\Debug\net6.0\Hafta 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\obj\Debug\net6.0\Hafta 4.AssemblyInfoInputs.cache
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\obj\Debug\net6.0\Hafta 4.AssemblyInfo.cs
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\obj\Debug\net6.0\Hafta 4.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\bin\Debug\net6.0\Hafta 4.exe
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\bin\Debug\net6.0\Hafta 4.deps.json
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\bin\Debug\net6.0\Hafta 4.runtimeconfig.json
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\bin\Debug\net6.0\Hafta 4.dll
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\bin\Debug\net6.0\Hafta 4.pdb
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\obj\Debug\net6.0\Hafta 4.dll
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\obj\Debug\net6.0\refint\Hafta 4.dll
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\obj\Debug\net6.0\Hafta 4.pdb
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\obj\Debug\net6.0\Hafta 4.genruntimeconfig.cache
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Hafta 4\Hafta 4\obj\Debug\net6.0\ref\Hafta 4.dll
